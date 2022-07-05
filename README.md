@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Node, Express, Mongo, TypeScript, AWS**
 
-- 📫 How to reach me **kevan.haggins@gmail.com**
+- 📫 How to reach me - **<a href="mailto:kevan.haggins@gmail.com" target="blank">Email</a>** || **<a href="https://www.linkedin.com/in/kevan-haggins/">LinkedIn</a>**
 
 <h3 align="left">Coursework/coding challenges:</h3>
 <p align="left">
