@@ -20,10 +20,10 @@
 
 <h3 align="left">Coursework:</h3>
 <p align="left">
-<a href="https://github.com/The-Odin-Project-Foundations" target="blank"><img align="center" src="odinlogo.png" alt="kevanhaggins" height="30" width="40" /></a>
-<a href="https://github.com/The-Odin-Project-Full-Stack-JavaScript" target="blank"><img align="center" src="odinlogo.png" alt="kevan-haggins" height="30" width="40" /></a>
-<a href="https://github.com/CS50-Projects" target="blank"><img align="center" src="harvard.jfif" alt="kevan_haggins" height="30" width="40" /></a>
-<a href="https://github.com/Humber-Projects" target="blank"><img align="center" src="humber.jpg" alt="simplesapien" height="30" width="40" /></a>
+<a href="https://github.com/The-Odin-Project-Foundations" target="blank"><img align="center" src="odin.png" alt="kevanhaggins" height="30" width="40" /></a>
+<a href="https://github.com/The-Odin-Project-Full-Stack-JavaScript" target="blank"><img align="center" src="odin.png" alt="kevan-haggins" height="30" width="40" /></a>
+<a href="https://github.com/CS50-Projects" target="blank"><img align="center" src="harvard.png" alt="kevan_haggins" height="30" width="40" /></a>
+<a href="https://github.com/Humber-Projects" target="blank"><img align="center" src="humber.png" alt="simplesapien" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
