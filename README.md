@@ -24,5 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simplesapien&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="simplesapien" /></p>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kevan.haggins/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+<br>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kevan.haggins/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kevan.haggins/0" alt="Recent Article 0"> 
 
