@@ -9,14 +9,12 @@
 
 - 📫 How to reach me - **<a href="mailto:kevan.haggins@gmail.com">Email</a>** || **<a href="https://www.linkedin.com/in/kevan-haggins/">LinkedIn</a>**
 
-<h3 align="left">Coursework/coding challenges:</h3>
+<h3 align="left">Coursework + school projects:</h3>
 <p align="left">
 <a href="https://github.com/The-Odin-Project-Foundations" target="_blank"><img align="center" src="odin.png" alt="kevanhaggins" height="40" width="50" /></a>
 <a href="https://github.com/The-Odin-Project-Full-Stack-JavaScript" target="_blank"><img align="center" src="odin.png" alt="kevan-haggins" height="40" width="50" /></a>
 <a href="https://github.com/CS50-Projects" target="_blank"><img align="center" src="harvard.png" alt="kevan_haggins" height="40" width="50" /></a>
 <a href="https://github.com/Humber-Projects" target="_blank"><img align="center" src="humber.png" alt="simplesapien" height="40" width="50" /></a>
-<a href="https://www.hackerrank.com/kevan_haggins" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kevan_haggins" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/simplesapien" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="simplesapien" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
