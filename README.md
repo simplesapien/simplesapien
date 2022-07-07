@@ -10,7 +10,7 @@
 - 📫 How to reach me - **<a href="mailto:kevan.haggins@gmail.com">Email</a>** || **<a href="https://www.linkedin.com/in/kevan-haggins/">LinkedIn</a>**
 <br>
 
-<h3 align="left">Coursework + school projects:</h3>
+<h3 align="left">Course Work + School Projects:</h3>
 <p align="left">
 <a href="https://github.com/The-Odin-Project-Foundations" target="_blank"><img align="center" src="odin.png" alt="kevanhaggins" height="40" width="50" /></a>
 <a href="https://github.com/The-Odin-Project-Full-Stack-JavaScript" target="_blank"><img align="center" src="odin.png" alt="kevan-haggins" height="40" width="50" /></a>
