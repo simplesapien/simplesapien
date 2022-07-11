@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **JavaScript, React, Node, Express, Mongo, TypeScript, AWS**
 
 - 📫 How to reach me - **<a href="mailto:kevan.haggins@gmail.com">Email</a>** || **<a href="https://www.linkedin.com/in/kevan-haggins/">LinkedIn</a>**
-<br>
 
 <h3 align="left">Course Work + School Projects:</h3>
 <p align="left">
