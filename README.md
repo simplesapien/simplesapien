@@ -11,8 +11,8 @@
 
 <h3 align="left">Course Work + School Projects:</h3>
 <p align="left">
-<a href="https://github.com/The-Odin-Project-Foundations" target="_blank"><img align="center" src="odin.png" alt="kevanhaggins" height="40" width="50" /></a>
-<a href="https://github.com/The-Odin-Project-Full-Stack-JavaScript" target="_blank"><img align="center" src="odin.png" alt="kevan-haggins" height="40" width="50" /></a>
+<a href="https://github.com/TOP-Foundations" target="_blank"><img align="center" src="odin.png" alt="kevanhaggins" height="40" width="50" /></a>
+<a href="https://github.com/TOP-Fullstack" target="_blank"><img align="center" src="odin.png" alt="kevan-haggins" height="40" width="50" /></a>
 <a href="https://github.com/CS50-Projects" target="_blank"><img align="center" src="harvard.png" alt="kevan_haggins" height="40" width="50" /></a>
 <a href="https://github.com/Humber-Projects" target="_blank"><img align="center" src="humber.png" alt="simplesapien" height="40" width="50" /></a>
 </p>
