@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevan</h1>
 <h3 align="center">A fledgling web developer/student from Canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simplesapien&label=Profile%20views&color=0e75b6&style=flat" alt="simplesapien" /> </p>
-
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 
 - 🌱 I’m currently learning **JavaScript, React, Node, Express, Mongo, TypeScript, AWS**
