@@ -7,7 +7,7 @@
 
 - 📫 How to reach me - **<a href="mailto:kevan.haggins@gmail.com">Email</a>** || **<a href="https://www.linkedin.com/in/kevan-haggins/">LinkedIn</a>**
 
-<h3 align="left">Course Work + School Projects:</h3>
+<h3 align="left">Online coursework / Schoolwork:</h3>
 <p align="left">
 <a href="https://github.com/TOP-Foundations" target="_blank"><img align="center" src="odin.png" alt="kevanhaggins" height="40" width="50" /></a>
 <a href="https://github.com/TOP-Fullstack" target="_blank"><img align="center" src="odin.png" alt="kevan-haggins" height="40" width="50" /></a>
