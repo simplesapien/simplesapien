@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevan</h1>
-<h3 align="center">A fledgling web developer/student from Canada</h3>
-
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
+<h3 align="center">A fledgling web dev from Canada</h3>
 
 - 🌱 I’m currently learning **JavaScript, React, Node, Express, Mongo, TypeScript, AWS, Firebase, Pinecone**
 
