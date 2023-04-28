@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 
-- 🌱 I’m currently learning **JavaScript, React, Node, Express, Mongo, TypeScript, AWS**
+- 🌱 I’m currently learning **JavaScript, React, Node, Express, Mongo, TypeScript, AWS, Firebase, Pinecone**
 
 - 📫 How to reach me - **<a href="mailto:kevan.haggins@gmail.com">Email</a>** || **<a href="https://www.linkedin.com/in/kevan-haggins/">LinkedIn</a>**
 
